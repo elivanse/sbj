@@ -1,0 +1,7 @@
+host   172.16.0.41
+user   biblio
+pass   b1bl10
+port   22
+remote /var/www/html/
+confirm_download 1
+confirm_upload 1
